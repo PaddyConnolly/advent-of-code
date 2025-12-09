@@ -1,5 +1,7 @@
 # 🎄 Advent of Code
 
+⭐ **Stars: 6/50**
+
 My solutions to [Advent of Code](https://adventofcode.com/) — the annual Christmas-themed coding challenge.
 
 ## ✨ What is Advent of Code?
@@ -13,3 +15,7 @@ Very rusty on C++, got the first part straight away, second part took me a while
 ## Day 2
 
 A lot more straight forward, got the first one quickly by splitting in half, then extended that to split by all factors for the second. Tried to get it fully mathematically, but ended up going for a string-based solution in the end.
+
+## Day 3
+
+Got the first part with an intuitive 'check-if-first-digit-bigger, check-if-second-digit-bigger' solution. Took some time to come up with the second part, but when I actually planned it instead of just writing code first, I got it instantly. First time using a C++ unordered map.
