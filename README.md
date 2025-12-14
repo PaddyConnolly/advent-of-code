@@ -1,6 +1,6 @@
 # 🎄 Advent of Code
 
-⭐ **Stars: 8/50**
+⭐ **Stars: 10/50**
 
 My solutions to [Advent of Code](https://adventofcode.com/) — the annual Christmas-themed coding challenge.
 
@@ -23,3 +23,7 @@ Got the first part with an intuitive 'check-if-first-digit-bigger, check-if-seco
 ## Day 4
 
 Very quick one today, on the first part I got the correct answer on the first try, which is the first time that happened, I think the new planning method works a lot better. The second part took slightly longer, but only because I forgot to reset the counts when looping through.
+
+## Day 5
+
+First part took a while, forgot about the possibility of overlapping ranges, but once I rebuilt it with range merging it made the second part easy.
