@@ -2,11 +2,7 @@
 
 ⭐ **Stars: 10/50**
 
-My solutions to [Advent of Code](https://adventofcode.com/) — the annual Christmas-themed coding challenge.
-
-## ✨ What is Advent of Code?
-
-Advent of Code is a series of programming puzzles released daily from December 1st to 25th. Each day brings a new two-part challenge that can be solved in any language.
+My solutions to [Advent of Code](https://adventofcode.com/)
 
 ## Day 1
 
