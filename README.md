@@ -1,6 +1,6 @@
 # 🎄 Advent of Code
 
-⭐ **Stars: 12/24**
+⭐ **Stars: 14/24**
 
 My solutions to [Advent of Code](https://adventofcode.com/)
 
