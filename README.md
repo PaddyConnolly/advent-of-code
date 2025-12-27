@@ -1,6 +1,10 @@
 # 🎄 Advent of Code
 
+<<<<<<< HEAD
 ⭐ **Stars: 14/24**
+=======
+⭐ **Stars: 16/24**
+>>>>>>> 596aa17 (Day 8 Complete)
 
 My solutions to [Advent of Code](https://adventofcode.com/)
 
@@ -31,3 +35,7 @@ Again first part was simple, and got tripped up on second part for a long time b
 ## Day 7
 
 Much quicker one, almost got tripped up again by not reading the question for the first part (I was counting beams at the end not total splits). Came up with a recursive solution for the second part which took too long at first but added memoisation which fixed the issue.
+
+## Day 8
+
+Definitely the hardest so far, lots of research required into Disjoint Set Unions. However it was probably one of the easiest second part follow-ups, only required a slight tweak.
