@@ -27,3 +27,7 @@ First part took a while, forgot about the possibility of overlapping ranges, but
 ## Day 6
 
 Again first part was simple, and got tripped up on second part for a long time because I read the question wrong, I was interpreting 8 (space) (space) as 800, and not 8.
+
+## Day 7
+
+Much quicker one, almost got tripped up again by not reading the question for the first part (I was counting beams at the end not total splits). Came up with a recursive solution for the second part which took too long at first but added memoisation which fixed the issue.
