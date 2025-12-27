@@ -1,6 +1,6 @@
 # 🎄 Advent of Code
 
-⭐ **Stars: 10/50**
+⭐ **Stars: 12/24**
 
 My solutions to [Advent of Code](https://adventofcode.com/)
 
@@ -23,3 +23,7 @@ Very quick one today, on the first part I got the correct answer on the first tr
 ## Day 5
 
 First part took a while, forgot about the possibility of overlapping ranges, but once I rebuilt it with range merging it made the second part easy.
+
+## Day 6
+
+Again first part was simple, and got tripped up on second part for a long time because I read the question wrong, I was interpreting 8 (space) (space) as 800, and not 8.
