@@ -1,10 +1,6 @@
 # 🎄 Advent of Code
 
-<<<<<<< HEAD
-⭐ **Stars: 14/24**
-=======
 ⭐ **Stars: 16/24**
->>>>>>> 596aa17 (Day 8 Complete)
 
 My solutions to [Advent of Code](https://adventofcode.com/)
 
