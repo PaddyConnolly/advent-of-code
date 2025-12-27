@@ -1,5 +1,0 @@
-bin/
-*.json
-.cache/
-Makefile
-.gitignore
